@@ -1,7 +1,7 @@
 <h1 align="center">Triangle Web</h1>
 <h3 align="center">Проект MVC-фреймворка на PHP</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=localzet&row=1&column=7" alt="localzet" /></a> </p>
+<p align="center"> <a href="https://github.com/localzet"><img src="https://github-profile-trophy.vercel.app/?username=localzet&row=1&column=7&theme=darkhub&no-frame=true" alt="localzet" /></a> </p>
 
 - ❤️‍🔥 Сердце проекта - [Асинхронный event-based сервер](https://github.com/localzet/Server)
 
